@@ -1,7 +1,7 @@
 title: Michel Alves Almeida
 email: michelalvs@gmail.com
 description: Esse é meu site estático feito com Jekyll
-baseurl: 'https://mikxingu.github.io/'
+baseurl: ''
 url: 'https://mikxingu.github.io/'
 github_username: mikxingu
 theme: minima

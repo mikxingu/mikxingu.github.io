@@ -8,4 +8,4 @@ permalink: "/about/"
 
 Trabalha atendendo clientes de diversos segmentos, oferecendo soluções de TI para pequenas e médias empresas.
 
-É apaixonado por tecnologia e ama aprender e ensinar pessoas. Também é um aficionado por motos aos finais de semana.
+É apaixonado por tecnologia e ama aprender e ensinar pessoas. Também é motociclista e ama acampar e viajar aos finais de semana.

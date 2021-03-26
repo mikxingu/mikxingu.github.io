@@ -1,12 +1,13 @@
-title: Michel Alves Almeida
+title: Mike Alves
 email: michelalvs@gmail.com
-description: Esse é meu site estático feito com Jekyll
-baseurl: ''
-url: ''
+description: |-
+  Esse é meu site estático feito com Jekyll.
+  baseurl: ''
+url: ""
 github_username: mikxingu
+instagram_username: mikeriderbr
 theme: minima
 plugins:
   - jekyll-feed
   - jekyll-admin
   - jekyll-default-layout
-facebook_username: Michel Alves

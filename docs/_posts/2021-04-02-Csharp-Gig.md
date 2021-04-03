@@ -2,7 +2,6 @@
 title: Foco no estudo e oportunidades em C#
 ---
 ## Focar, estudar e executar.
-<br> </br>
 Essa semana estive organizando meus estudos, se você acompanha meu Github, provavelmente viu que fiz um repositório com uma trilha a ser seguida a fim de me tornar um desenvolvedor Backend profissional, conforme orientações [deste link](https://roadmap.sh/backend).
 <br></br>
 Ter foco nos estudos é muito importante e, quando se fala de tecnologia, ainda mais para pessoas curiosas como eu, é muito fácil ficar pulando de tecnologia em tecnologia sem se especializar em alguma coisa. Justamente por conta disso resolvi <strong>focar</strong> e assistir apenas conteúdo relacionado a linguagem C# e suas frameworks (.NET Core, .NET Framework, etc).

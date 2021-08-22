@@ -2,7 +2,9 @@ spellchecker: hunspell
 
 matrix:
 - name: checkPT-BR
-  sources: /docs/_posts/*.md
+  sources: 
+  - '**/*.md'
   hunspell:
+    lang: pt
     d: pt_BR
-    d: en_US
+    

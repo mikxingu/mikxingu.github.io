@@ -3,7 +3,7 @@ spellchecker: hunspell
 matrix:
 - name: checkPT-BR
   sources: 
-  - /docs/_posts/*.md
+  - ./docs/_posts/*.md
   hunspell:
     d: pt_BR
     d: en_US

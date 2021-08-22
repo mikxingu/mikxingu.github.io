@@ -5,6 +5,9 @@ matrix:
   sources: 
   - '**/*.md'
   hunspell:
-    lang: pt
     d: pt_BR
+- name: checkEn_US
+  sources: '**/*.md'
+  hunspell:
+    d: en_US
     

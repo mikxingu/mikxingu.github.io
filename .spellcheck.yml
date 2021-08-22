@@ -5,4 +5,7 @@ matrix:
   sources: 
   - ./docs/_posts/*.md
   hunspell:
+    lang: pt
     d: pt_BR
+    lang: en
+    d: en_US
